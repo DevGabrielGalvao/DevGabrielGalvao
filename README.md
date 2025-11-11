@@ -5,8 +5,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FuturoDevGalvao&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00ABFD&text_color=c9d1d9&bg_color=000000" alt="Gabriel Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuturoDevGalvao&layout=compact&hide_border=true&title_color=ffffff&text_color=00bfbf&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FuturoDevGalvao&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00ABFD&text_color=ffffff&bg_color=000000" alt="Gabriel Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuturoDevGalvao&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
 
