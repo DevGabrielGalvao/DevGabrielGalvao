@@ -1,6 +1,3 @@
-# 💫 About Me:
- 👋, I'm Gabriel Galvão, a full-stack web developer
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABFD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Galvão;I'm+from+Natal,+RN;I'm+a+developer+constantly+learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
