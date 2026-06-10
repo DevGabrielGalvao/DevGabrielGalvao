@@ -1,42 +1,16 @@
+# 💫 About Me:
+ 👋, I'm Gabriel Galvão, a full-stack web developer
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ABFD&height=120&section=header"/>
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABFD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Galvão;I'm+from+Natal,+RN;I'm+a+developer+constantly+learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/galvao-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biel36288@gmail.com) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FuturoDevGalvao&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00ABFD&text_color=ffffff&bg_color=000000" alt="Gabriel Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuturoDevGalvao&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
-</div>
+# 💻 Tech Stack:
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DevGabrielGalvao&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DevGabrielGalvao&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevGabrielGalvao&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FuturoDevGalvao&bg_color=000000&color=ffffff&line=4eb4bc&point=10b113&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMendessDev&theme=algolia&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-### Learning
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-### Social Medias
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.galvao)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biel36288@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abfd&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
